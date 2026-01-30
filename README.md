@@ -53,4 +53,3 @@ Health and fitness mobile app prototype designed with a user-centered approach.
 📧 **Email:** Ruba.alshehri@hotmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/ruba-alshehri-069a32281](https://www.linkedin.com/in/ruba-alshehri-069a32281/)
 
-## Projects
